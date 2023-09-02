@@ -14,6 +14,7 @@
 @import url("sections/hero.css");
 @import url("sections/about.css");
 @import url("sections/popular.css");
+@import url("sections/trending.css");
 
 /* CSS variables for reusablity across all files (including above imported) */
 :root {
